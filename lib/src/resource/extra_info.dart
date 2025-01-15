@@ -2,7 +2,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "AF": {
     "geoNameId": 1149361,
     "languageCodes": "fa-AF,ps,uz-AF,tk",
-    "languages": "Afghan Persian or Dari (official) 50%, Pashto (official) 35%, Turkic languages (primarily Uzbek and Turkmen) 11%, 30 minor languages (primarily Balochi and Pashai) 4%, much bilingualism, but Dari functions as the lingua franca",
+    "languages":
+        "Afghan Persian or Dari (official) 50%, Pashto (official) 35%, Turkic languages (primarily Uzbek and Turkmen) 11%, 30 minor languages (primarily Balochi and Pashai) 4%, much bilingualism, but Dari functions as the lingua franca",
     "areaKM2": 647500,
     "internetHosts": 223,
     "internetUsers": 1000000,
@@ -16,7 +17,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "AL": {
     "geoNameId": 783754,
     "languageCodes": "sq,el",
-    "languages": "Albanian 98.8% (official - derived from Tosk dialect), Greek 0.5%, other 0.6% (including Macedonian, Roma, Vlach, Turkish, Italian, and Serbo-Croatian), unspecified 0.1% (2011 est.)",
+    "languages":
+        "Albanian 98.8% (official - derived from Tosk dialect), Greek 0.5%, other 0.6% (including Macedonian, Roma, Vlach, Turkish, Italian, and Serbo-Croatian), unspecified 0.1% (2011 est.)",
     "areaKM2": 28748,
     "internetHosts": 15528,
     "internetUsers": 1300000,
@@ -30,7 +32,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "DZ": {
     "geoNameId": 2589581,
     "languageCodes": "ar-DZ",
-    "languages": "Arabic (official), French (lingua franca), Berber dialects: Kabylie Berber (Tamazight), Chaouia Berber (Tachawit), Mzab Berber, Tuareg Berber (Tamahaq)",
+    "languages":
+        "Arabic (official), French (lingua franca), Berber dialects: Kabylie Berber (Tamazight), Chaouia Berber (Tachawit), Mzab Berber, Tuareg Berber (Tamahaq)",
     "areaKM2": 2381740,
     "internetHosts": 676,
     "internetUsers": 4700000,
@@ -44,7 +47,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "AS": {
     "geoNameId": 5880801,
     "languageCodes": "en-AS,sm,to",
-    "languages": "Samoan 90.6% (closely related to Hawaiian and other Polynesian languages), English 2.9%, Tongan 2.4%, other Pacific islander 2.1%, other 2%",
+    "languages":
+        "Samoan 90.6% (closely related to Hawaiian and other Polynesian languages), English 2.9%, Tongan 2.4%, other Pacific islander 2.1%, other 2%",
     "areaKM2": 199,
     "internetHosts": 2387,
     "internetUsers": "",
@@ -128,7 +132,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "AR": {
     "geoNameId": 3865483,
     "languageCodes": "es-AR,en,it,de,fr,gn",
-    "languages": "Spanish (official), Italian, English, German, French, indigenous (Mapudungun, Quechua)",
+    "languages":
+        "Spanish (official), Italian, English, German, French, indigenous (Mapudungun, Quechua)",
     "areaKM2": 2766890,
     "internetHosts": 11232000,
     "internetUsers": 13694000,
@@ -142,7 +147,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "AM": {
     "geoNameId": 174982,
     "languageCodes": "hy",
-    "languages": "Armenian (official) 97.9%, Kurdish (spoken by Yezidi minority) 1%, other 1% (2011 est.)",
+    "languages":
+        "Armenian (official) 97.9%, Kurdish (spoken by Yezidi minority) 1%, other 1% (2011 est.)",
     "areaKM2": 29800,
     "internetHosts": 194142,
     "internetUsers": 208200,
@@ -156,7 +162,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "AW": {
     "geoNameId": 3577279,
     "languageCodes": "nl-AW,es,en",
-    "languages": "Papiamento (a Spanish-Portuguese-Dutch-English dialect) 69.4%, Spanish 13.7%, English (widely spoken) 7.1%, Dutch (official) 6.1%, Chinese 1.5%, other 1.7%, unspecified 0.4% (2010 est.)",
+    "languages":
+        "Papiamento (a Spanish-Portuguese-Dutch-English dialect) 69.4%, Spanish 13.7%, English (widely spoken) 7.1%, Dutch (official) 6.1%, Chinese 1.5%, other 1.7%, unspecified 0.4% (2010 est.)",
     "areaKM2": 193,
     "internetHosts": 40560,
     "internetUsers": 24000,
@@ -170,7 +177,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "AU": {
     "geoNameId": 2077456,
     "languageCodes": "en-AU",
-    "languages": "English 76.8%, Mandarin 1.6%, Italian 1.4%, Arabic 1.3%, Greek 1.2%, Cantonese 1.2%, Vietnamese 1.1%, other 10.4%, unspecified 5% (2011 est.)",
+    "languages":
+        "English 76.8%, Mandarin 1.6%, Italian 1.4%, Arabic 1.3%, Greek 1.2%, Cantonese 1.2%, Vietnamese 1.1%, other 10.4%, unspecified 5% (2011 est.)",
     "areaKM2": 7686850,
     "internetHosts": 17081000,
     "internetUsers": 15810000,
@@ -184,7 +192,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "AT": {
     "geoNameId": 2782113,
     "languageCodes": "de-AT,hr,hu,sl",
-    "languages": "German (official nationwide) 88.6%, Turkish 2.3%, Serbian 2.2%, Croatian (official in Burgenland) 1.6%, other (includes Slovene, official in Carinthia, and Hungarian, official in Burgenland) 5.3% (2001 census)",
+    "languages":
+        "German (official nationwide) 88.6%, Turkish 2.3%, Serbian 2.2%, Croatian (official in Burgenland) 1.6%, other (includes Slovene, official in Carinthia, and Hungarian, official in Burgenland) 5.3% (2001 census)",
     "areaKM2": 83858,
     "internetHosts": 3512000,
     "internetUsers": 6143000,
@@ -198,7 +207,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "AZ": {
     "geoNameId": 587116,
     "languageCodes": "az,ru,hy",
-    "languages": "Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)",
+    "languages":
+        "Azerbaijani (Azeri) (official) 92.5%, Russian 1.4%, Armenian 1.4%, other 4.7% (2009 est.)",
     "areaKM2": 86600,
     "internetHosts": 46856,
     "internetUsers": 2420000,
@@ -254,7 +264,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "BB": {
     "geoNameId": 3374084,
     "languageCodes": "en-BB",
-    "languages": "English (official), Bajan (English-based creole language, widely spoken in informal settings)",
+    "languages":
+        "English (official), Bajan (English-based creole language, widely spoken in informal settings)",
     "areaKM2": 431,
     "internetHosts": 1524,
     "internetUsers": 188000,
@@ -268,7 +279,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "BY": {
     "geoNameId": 630336,
     "languageCodes": "be,ru",
-    "languages": "Belarusian (official) 23.4%, Russian (official) 70.2%, other 3.1% (includes small Polish- and Ukrainian-speaking minorities), unspecified 3.3% (2009 est.)",
+    "languages":
+        "Belarusian (official) 23.4%, Russian (official) 70.2%, other 3.1% (includes small Polish- and Ukrainian-speaking minorities), unspecified 3.3% (2009 est.)",
     "areaKM2": 207600,
     "internetHosts": 295217,
     "internetUsers": 2643000,
@@ -282,7 +294,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "BE": {
     "geoNameId": 2802361,
     "languageCodes": "nl-BE,fr-BE,de-BE",
-    "languages": "Dutch (official) 60%, French (official) 40%, German (official) less than 1%, legally bilingual (Dutch and French)",
+    "languages":
+        "Dutch (official) 60%, French (official) 40%, German (official) less than 1%, legally bilingual (Dutch and French)",
     "areaKM2": 30510,
     "internetHosts": 5192000,
     "internetUsers": 8113000,
@@ -296,7 +309,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "BZ": {
     "geoNameId": 3582678,
     "languageCodes": "en-BZ,es",
-    "languages": "Spanish 46%, Creole 32.9%, Mayan dialects 8.9%, English 3.9% (official), Garifuna 3.4% (Carib), German 3.3%, other 1.4%, unknown 0.2% (2000 census)",
+    "languages":
+        "Spanish 46%, Creole 32.9%, Mayan dialects 8.9%, English 3.9% (official), Garifuna 3.4% (Carib), German 3.3%, other 1.4%, unknown 0.2% (2000 census)",
     "areaKM2": 22966,
     "internetHosts": 3392,
     "internetUsers": 36000,
@@ -310,7 +324,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "BJ": {
     "geoNameId": 2395170,
     "languageCodes": "fr-BJ",
-    "languages": "French (official), Fon and Yoruba (most common vernaculars in south), tribal languages (at least six major ones in north)",
+    "languages":
+        "French (official), Fon and Yoruba (most common vernaculars in south), tribal languages (at least six major ones in north)",
     "areaKM2": 112620,
     "internetHosts": 491,
     "internetUsers": 200100,
@@ -338,7 +353,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "BT": {
     "geoNameId": 1252634,
     "languageCodes": "dz",
-    "languages": "Sharchhopka 28%, Dzongkha (official) 24%, Lhotshamkha 22%, other 26% (includes foreign languages) (2005 est.)",
+    "languages":
+        "Sharchhopka 28%, Dzongkha (official) 24%, Lhotshamkha 22%, other 26% (includes foreign languages) (2005 est.)",
     "areaKM2": 47000,
     "internetHosts": 14590,
     "internetUsers": 50000,
@@ -352,7 +368,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "BO": {
     "geoNameId": 3923057,
     "languageCodes": "es-BO,qu,ay",
-    "languages": "Spanish (official) 60.7%, Quechua (official) 21.2%, Aymara (official) 14.6%, Guarani (official), foreign languages 2.4%, other 1.2%",
+    "languages":
+        "Spanish (official) 60.7%, Quechua (official) 21.2%, Aymara (official) 14.6%, Guarani (official), foreign languages 2.4%, other 1.2%",
     "areaKM2": 1098580,
     "internetHosts": 180988,
     "internetUsers": 1103000,
@@ -380,7 +397,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "BW": {
     "geoNameId": 933860,
     "languageCodes": "en-BW,tn-BW",
-    "languages": "Setswana 78.2%, Kalanga 7.9%, Sekgalagadi 2.8%, English (official) 2.1%, other 8.6%, unspecified 0.4% (2001 census)",
+    "languages":
+        "Setswana 78.2%, Kalanga 7.9%, Sekgalagadi 2.8%, English (official) 2.1%, other 8.6%, unspecified 0.4% (2001 census)",
     "areaKM2": 600370,
     "internetHosts": 1806,
     "internetUsers": 120000,
@@ -450,7 +468,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "BG": {
     "geoNameId": 732800,
     "languageCodes": "bg,tr-BG",
-    "languages": "Bulgarian (official) 76.8%, Turkish 8.2%, Roma 3.8%, other 0.7%, unspecified 10.5% (2011 est.)",
+    "languages":
+        "Bulgarian (official) 76.8%, Turkish 8.2%, Roma 3.8%, other 0.7%, unspecified 10.5% (2011 est.)",
     "areaKM2": 110910,
     "internetHosts": 976277,
     "internetUsers": 3395000,
@@ -464,7 +483,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "BF": {
     "geoNameId": 2361809,
     "languageCodes": "fr-BF",
-    "languages": "French (official), native African languages belonging to Sudanic family spoken by 90% of the population",
+    "languages":
+        "French (official), native African languages belonging to Sudanic family spoken by 90% of the population",
     "areaKM2": 274200,
     "internetHosts": 1795,
     "internetUsers": 178100,
@@ -478,7 +498,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "BI": {
     "geoNameId": 433561,
     "languageCodes": "fr-BI,rn",
-    "languages": "Kirundi 29.7% (official), Kirundi and other language 9.1%, French (official) and French and other language 0.3%, Swahili and Swahili and other language 0.2% (along Lake Tanganyika and in the Bujumbura area), English and English and other language 0.06%, more than 2 languages 3.7%, unspecified 56.9% (2008 est.)",
+    "languages":
+        "Kirundi 29.7% (official), Kirundi and other language 9.1%, French (official) and French and other language 0.3%, Swahili and Swahili and other language 0.2% (along Lake Tanganyika and in the Bujumbura area), English and English and other language 0.06%, more than 2 languages 3.7%, unspecified 56.9% (2008 est.)",
     "areaKM2": 27830,
     "internetHosts": 229,
     "internetUsers": 157800,
@@ -506,7 +527,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "CM": {
     "geoNameId": 2233387,
     "languageCodes": "en-CM,fr-CM",
-    "languages": "24 major African language groups, English (official), French (official)",
+    "languages":
+        "24 major African language groups, English (official), French (official)",
     "areaKM2": 475440,
     "internetHosts": 10207,
     "internetUsers": 749600,
@@ -520,7 +542,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "CA": {
     "geoNameId": 6251999,
     "languageCodes": "en-CA,fr-CA,iu",
-    "languages": "English (official) 58.7%, French (official) 22%, Punjabi 1.4%, Italian 1.3%, Spanish 1.3%, German 1.3%, Cantonese 1.2%, Tagalog 1.2%, Arabic 1.1%, other 10.5% (2011 est.)",
+    "languages":
+        "English (official) 58.7%, French (official) 22%, Punjabi 1.4%, Italian 1.3%, Spanish 1.3%, German 1.3%, Cantonese 1.2%, Tagalog 1.2%, Arabic 1.1%, other 10.5% (2011 est.)",
     "areaKM2": 9984670,
     "internetHosts": 8743000,
     "internetUsers": 26960000,
@@ -534,7 +557,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "CV": {
     "geoNameId": 3374766,
     "languageCodes": "pt-CV",
-    "languages": "Portuguese (official), Crioulo (a blend of Portuguese and West African words)",
+    "languages":
+        "Portuguese (official), Crioulo (a blend of Portuguese and West African words)",
     "areaKM2": 4033,
     "internetHosts": 38,
     "internetUsers": 150000,
@@ -548,7 +572,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "KY": {
     "geoNameId": 3580718,
     "languageCodes": "en-KY",
-    "languages": "English (official) 90.9%, Spanish 4%, Filipino 3.3%, other 1.7%, unspecified 0.1% (2010 est.)",
+    "languages":
+        "English (official) 90.9%, Spanish 4%, Filipino 3.3%, other 1.7%, unspecified 0.1% (2010 est.)",
     "areaKM2": 262,
     "internetHosts": 23472,
     "internetUsers": 23000,
@@ -562,7 +587,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "CF": {
     "geoNameId": 239880,
     "languageCodes": "fr-CF,sg,ln,kg",
-    "languages": "French (official), Sangho (lingua franca and national language), tribal languages",
+    "languages":
+        "French (official), Sangho (lingua franca and national language), tribal languages",
     "areaKM2": 622984,
     "internetHosts": 20,
     "internetUsers": 22600,
@@ -576,7 +602,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "TD": {
     "geoNameId": 2434508,
     "languageCodes": "fr-TD,ar-TD,sre",
-    "languages": "French (official), Arabic (official), Sara (in south), more than 120 different languages and dialects",
+    "languages":
+        "French (official), Arabic (official), Sara (in south), more than 120 different languages and dialects",
     "areaKM2": 1284000,
     "internetHosts": 6,
     "internetUsers": 168100,
@@ -590,7 +617,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "CL": {
     "geoNameId": 3895114,
     "languageCodes": "es-CL",
-    "languages": "Spanish 99.5% (official), English 10.2%, indigenous 1% (includes Mapudungun, Aymara, Quechua, Rapa Nui), other 2.3%, unspecified 0.2%",
+    "languages":
+        "Spanish 99.5% (official), English 10.2%, indigenous 1% (includes Mapudungun, Aymara, Quechua, Rapa Nui), other 2.3%, unspecified 0.2%",
     "areaKM2": 756950,
     "internetHosts": 2152000,
     "internetUsers": 7009000,
@@ -604,7 +632,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "CN": {
     "geoNameId": 1814991,
     "languageCodes": "zh-CN,yue,wuu,dta,ug,za",
-    "languages": "Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect), Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages",
+    "languages":
+        "Standard Chinese or Mandarin (official; Putonghua, based on the Beijing dialect), Yue (Cantonese), Wu (Shanghainese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages",
     "areaKM2": 9596960,
     "internetHosts": 20602000,
     "internetUsers": 389000000,
@@ -660,7 +689,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "KM": {
     "geoNameId": 921929,
     "languageCodes": "ar,fr-KM",
-    "languages": "Arabic (official), French (official), Shikomoro (a blend of Swahili and Arabic)",
+    "languages":
+        "Arabic (official), French (official), Shikomoro (a blend of Swahili and Arabic)",
     "areaKM2": 2170,
     "internetHosts": 14,
     "internetUsers": 24300,
@@ -674,7 +704,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "CK": {
     "geoNameId": 1899402,
     "languageCodes": "en-CK,mi",
-    "languages": "English (official) 86.4%, Cook Islands Maori (Rarotongan) (official) 76.2%, other 8.3%",
+    "languages":
+        "English (official) 86.4%, Cook Islands Maori (Rarotongan) (official) 76.2%, other 8.3%",
     "areaKM2": 240,
     "internetHosts": 3562,
     "internetUsers": 6000,
@@ -702,7 +733,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "HR": {
     "geoNameId": 3202326,
     "languageCodes": "hr-HR,sr",
-    "languages": "Croatian (official) 95.6%, Serbian 1.2%, other 3% (including Hungarian, Czech, Slovak, and Albanian), unspecified 0.2% (2011 est.)",
+    "languages":
+        "Croatian (official) 95.6%, Serbian 1.2%, other 3% (including Hungarian, Czech, Slovak, and Albanian), unspecified 0.2% (2011 est.)",
     "areaKM2": 56542,
     "internetHosts": 729420,
     "internetUsers": 2234000,
@@ -730,7 +762,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "CW": {
     "geoNameId": 7626836,
     "languageCodes": "nl,pap",
-    "languages": "Papiamentu (a Spanish-Portuguese-Dutch-English dialect) 81.2%, Dutch (official) 8%, Spanish 4%, English 2.9%, other 3.9% (2001 census)",
+    "languages":
+        "Papiamentu (a Spanish-Portuguese-Dutch-English dialect) 81.2%, Dutch (official) 8%, Spanish 4%, English 2.9%, other 3.9% (2001 census)",
     "areaKM2": 444,
     "internetHosts": "",
     "internetUsers": "",
@@ -742,7 +775,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "CY": {
     "geoNameId": 146669,
     "languageCodes": "el-CY,tr-CY,en",
-    "languages": "Greek (official) 80.9%, Turkish (official) 0.2%, English 4.1%, Romanian 2.9%, Russian 2.5%, Bulgarian 2.2%, Arabic 1.2%, Filippino 1.1%, other 4.3%, unspecified 0.6% (2011 est.)",
+    "languages":
+        "Greek (official) 80.9%, Turkish (official) 0.2%, English 4.1%, Romanian 2.9%, Russian 2.5%, Bulgarian 2.2%, Arabic 1.2%, Filippino 1.1%, other 4.3%, unspecified 0.6% (2011 est.)",
     "areaKM2": 9250,
     "internetHosts": 252013,
     "internetUsers": 433900,
@@ -770,7 +804,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "CD": {
     "geoNameId": 203312,
     "languageCodes": "fr-CD,ln,kg",
-    "languages": "French (official), Lingala (a lingua franca trade language), Kingwana (a dialect of Kiswahili or Swahili), Kikongo, Tshiluba",
+    "languages":
+        "French (official), Lingala (a lingua franca trade language), Kingwana (a dialect of Kiswahili or Swahili), Kikongo, Tshiluba",
     "areaKM2": 2345410,
     "internetHosts": 2515,
     "internetUsers": 290000,
@@ -784,7 +819,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "DK": {
     "geoNameId": 2623032,
     "languageCodes": "da-DK,en,fo,de-DK",
-    "languages": "Danish, Faroese, Greenlandic (an Inuit dialect), German (small minority)",
+    "languages":
+        "Danish, Faroese, Greenlandic (an Inuit dialect), German (small minority)",
     "areaKM2": 43094,
     "internetHosts": 4297000,
     "internetUsers": 4750000,
@@ -854,7 +890,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "EC": {
     "geoNameId": 3658394,
     "languageCodes": "es-EC",
-    "languages": "Spanish (Castillian) 93% (official), Quechua 4.1%, other indigenous 0.7%, foreign 2.2%",
+    "languages":
+        "Spanish (Castillian) 93% (official), Quechua 4.1%, other indigenous 0.7%, foreign 2.2%",
     "areaKM2": 283560,
     "internetHosts": 170538,
     "internetUsers": 3352000,
@@ -868,7 +905,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "EG": {
     "geoNameId": 357994,
     "languageCodes": "ar-EG,en,fr",
-    "languages": "Arabic (official), English and French widely understood by educated classes",
+    "languages":
+        "Arabic (official), English and French widely understood by educated classes",
     "areaKM2": 1001450,
     "internetHosts": 200430,
     "internetUsers": 20136000,
@@ -896,7 +934,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "GQ": {
     "geoNameId": 2309096,
     "languageCodes": "es-GQ,fr",
-    "languages": "Spanish (official) 67.6%, other (includes French (official), Fang, Bubi) 32.4% (1994 census)",
+    "languages":
+        "Spanish (official) 67.6%, other (includes French (official), Fang, Bubi) 32.4% (1994 census)",
     "areaKM2": 28051,
     "internetHosts": 7,
     "internetUsers": 14400,
@@ -910,7 +949,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "ER": {
     "geoNameId": 338010,
     "languageCodes": "aa-ER,ar,tig,kun,ti-ER",
-    "languages": "Tigrinya (official), Arabic (official), English (official), Tigre, Kunama, Afar, other Cushitic languages",
+    "languages":
+        "Tigrinya (official), Arabic (official), English (official), Tigre, Kunama, Afar, other Cushitic languages",
     "areaKM2": 121320,
     "internetHosts": 701,
     "internetUsers": 200000,
@@ -924,7 +964,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "EE": {
     "geoNameId": 453733,
     "languageCodes": "et,ru",
-    "languages": "Estonian (official) 68.5%, Russian 29.6%, Ukrainian 0.6%, other 1.2%, unspecified 0.1% (2011 est.)",
+    "languages":
+        "Estonian (official) 68.5%, Russian 29.6%, Ukrainian 0.6%, other 1.2%, unspecified 0.1% (2011 est.)",
     "areaKM2": 45226,
     "internetHosts": 865494,
     "internetUsers": 971700,
@@ -938,7 +979,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "ET": {
     "geoNameId": 337996,
     "languageCodes": "am,en-ET,om-ET,ti-ET,so-ET,sid",
-    "languages": "Oromo (official working language in the State of Oromiya) 33.8%, Amharic (official national language) 29.3%, Somali (official working language of the State of Sumale) 6.2%, Tigrigna (Tigrinya) (official working language of the State of Tigray) 5.9%, Sidamo 4%, Wolaytta 2.2%, Gurage 2%, Afar (official working language of the State of Afar) 1.7%, Hadiyya 1.7%, Gamo 1.5%, Gedeo 1.3%, Opuuo 1.2%, Kafa 1.1%, other 8.1%, English (major foreign language taught in schools), Arabic (2007 est.)",
+    "languages":
+        "Oromo (official working language in the State of Oromiya) 33.8%, Amharic (official national language) 29.3%, Somali (official working language of the State of Sumale) 6.2%, Tigrigna (Tigrinya) (official working language of the State of Tigray) 5.9%, Sidamo 4%, Wolaytta 2.2%, Gurage 2%, Afar (official working language of the State of Afar) 1.7%, Hadiyya 1.7%, Gamo 1.5%, Gedeo 1.3%, Opuuo 1.2%, Kafa 1.1%, other 8.1%, English (major foreign language taught in schools), Arabic (2007 est.)",
     "areaKM2": 1127127,
     "internetHosts": 179,
     "internetUsers": 447300,
@@ -994,7 +1036,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "FI": {
     "geoNameId": 660013,
     "languageCodes": "fi-FI,sv-FI,smn",
-    "languages": "Finnish (official) 94.2%, Swedish (official) 5.5%, other (small Sami- and Russian-speaking minorities) 0.2% (2012 est.)",
+    "languages":
+        "Finnish (official) 94.2%, Swedish (official) 5.5%, other (small Sami- and Russian-speaking minorities) 0.2% (2012 est.)",
     "areaKM2": 337030,
     "internetHosts": 4763000,
     "internetUsers": 4393000,
@@ -1008,7 +1051,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "FR": {
     "geoNameId": 3017382,
     "languageCodes": "fr-FR,frp,br,co,ca,eu,oc",
-    "languages": "French (official) 100%, rapidly declining regional dialects and languages (Provencal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish)",
+    "languages":
+        "French (official) 100%, rapidly declining regional dialects and languages (Provencal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish)",
     "areaKM2": 547030,
     "internetHosts": 17266000,
     "internetUsers": 45262000,
@@ -1022,7 +1066,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "PF": {
     "geoNameId": 4030656,
     "languageCodes": "fr-PF,ty",
-    "languages": "French (official) 61.1%, Polynesian (official) 31.4%, Asian languages 1.2%, other 0.3%, unspecified 6% (2002 census)",
+    "languages":
+        "French (official) 61.1%, Polynesian (official) 31.4%, Asian languages 1.2%, other 0.3%, unspecified 6% (2002 census)",
     "areaKM2": 4167,
     "internetHosts": 37949,
     "internetUsers": 120000,
@@ -1036,7 +1081,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "GA": {
     "geoNameId": 2400553,
     "languageCodes": "fr-GA",
-    "languages": "French (official), Fang, Myene, Nzebi, Bapounou/Eschira, Bandjabi",
+    "languages":
+        "French (official), Fang, Myene, Nzebi, Bapounou/Eschira, Bandjabi",
     "areaKM2": 267667,
     "internetHosts": 127,
     "internetUsers": 98800,
@@ -1050,7 +1096,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "GM": {
     "geoNameId": 2413451,
     "languageCodes": "en-GM,mnk,wof,wo,ff",
-    "languages": "English (official), Mandinka, Wolof, Fula, other indigenous vernaculars",
+    "languages":
+        "English (official), Mandinka, Wolof, Fula, other indigenous vernaculars",
     "areaKM2": 11300,
     "internetHosts": 656,
     "internetUsers": 130100,
@@ -1064,7 +1111,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "GE": {
     "geoNameId": 614540,
     "languageCodes": "ka,ru,hy,az",
-    "languages": "Georgian (official) 71%, Russian 9%, Armenian 7%, Azeri 6%, other 7%",
+    "languages":
+        "Georgian (official) 71%, Russian 9%, Armenian 7%, Azeri 6%, other 7%",
     "areaKM2": 69700,
     "internetHosts": 357864,
     "internetUsers": 1300000,
@@ -1092,7 +1140,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "GH": {
     "geoNameId": 2300660,
     "languageCodes": "en-GH,ak,ee,tw",
-    "languages": "Asante 14.8%, Ewe 12.7%, Fante 9.9%, Boron (Brong) 4.6%, Dagomba 4.3%, Dangme 4.3%, Dagarte (Dagaba) 3.7%, Akyem 3.4%, Ga 3.4%, Akuapem 2.9%, other (includes English (official)) 36.1% (2000 census)",
+    "languages":
+        "Asante 14.8%, Ewe 12.7%, Fante 9.9%, Boron (Brong) 4.6%, Dagomba 4.3%, Dangme 4.3%, Dagarte (Dagaba) 3.7%, Akyem 3.4%, Ga 3.4%, Akuapem 2.9%, other (includes English (official)) 36.1% (2000 census)",
     "areaKM2": 239460,
     "internetHosts": 59086,
     "internetUsers": 1297000,
@@ -1106,7 +1155,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "GI": {
     "geoNameId": 2411586,
     "languageCodes": "en-GI,es,it,pt",
-    "languages": "English (used in schools and for official purposes), Spanish, Italian, Portuguese",
+    "languages":
+        "English (used in schools and for official purposes), Spanish, Italian, Portuguese",
     "areaKM2": 7,
     "internetHosts": 3509,
     "internetUsers": 20200,
@@ -1134,7 +1184,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "GL": {
     "geoNameId": 3425505,
     "languageCodes": "kl,da-GL,en",
-    "languages": "Greenlandic (East Inuit) (official), Danish (official), English",
+    "languages":
+        "Greenlandic (East Inuit) (official), Danish (official), English",
     "areaKM2": 2166086,
     "internetHosts": 15645,
     "internetUsers": 36000,
@@ -1162,7 +1213,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "GU": {
     "geoNameId": 4043988,
     "languageCodes": "en-GU,ch-GU",
-    "languages": "English 43.6%, Filipino 21.2%, Chamorro 17.8%, other Pacific island languages 10%, Asian languages 6.3%, other 1.1% (2010 est.)",
+    "languages":
+        "English 43.6%, Filipino 21.2%, Chamorro 17.8%, other Pacific island languages 10%, Asian languages 6.3%, other 1.1% (2010 est.)",
     "areaKM2": 549,
     "internetHosts": 23,
     "internetUsers": 90000,
@@ -1190,7 +1242,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "GG": {
     "geoNameId": 3042362,
     "languageCodes": "en,fr",
-    "languages": "English, French, Norman-French dialect spoken in country districts",
+    "languages":
+        "English, French, Norman-French dialect spoken in country districts",
     "areaKM2": 78,
     "internetHosts": 239,
     "internetUsers": 48300,
@@ -1232,7 +1285,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "GY": {
     "geoNameId": 3378535,
     "languageCodes": "en-GY",
-    "languages": "English, Amerindian dialects, Creole, Caribbean Hindustani (a dialect of Hindi), Urdu",
+    "languages":
+        "English, Amerindian dialects, Creole, Caribbean Hindustani (a dialect of Hindi), Urdu",
     "areaKM2": 214970,
     "internetHosts": 24936,
     "internetUsers": 189600,
@@ -1274,7 +1328,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "HK": {
     "geoNameId": 1819730,
     "languageCodes": "zh-HK,yue,zh,en",
-    "languages": "Cantonese (official) 89.5%, English (official) 3.5%, Putonghua (Mandarin) 1.4%, other Chinese dialects 4%, other 1.6% (2011 est.)",
+    "languages":
+        "Cantonese (official) 89.5%, English (official) 3.5%, Putonghua (Mandarin) 1.4%, other Chinese dialects 4%, other 1.6% (2011 est.)",
     "areaKM2": 1092,
     "internetHosts": 870041,
     "internetUsers": 4873000,
@@ -1288,7 +1343,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "HU": {
     "geoNameId": 719819,
     "languageCodes": "hu-HU",
-    "languages": "Hungarian (official) 99.6%, English 16%, German 11.2%, Russian 1.6%, Romanian 1.3%, French 1.2%, other 4.2%",
+    "languages":
+        "Hungarian (official) 99.6%, English 16%, German 11.2%, Russian 1.6%, Romanian 1.3%, French 1.2%, other 4.2%",
     "areaKM2": 93030,
     "internetHosts": 3145000,
     "internetUsers": 6176000,
@@ -1315,8 +1371,10 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   },
   "IN": {
     "geoNameId": 1269750,
-    "languageCodes": "en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",
-    "languages": "Hindi 41%, Bengali 8.1%, Telugu 7.2%, Marathi 7%, Tamil 5.9%, Urdu 5%, Gujarati 4.5%, Kannada 3.7%, Malayalam 3.2%, Oriya 3.2%, Punjabi 2.8%, Assamese 1.3%, Maithili 1.2%, other 5.9%",
+    "languageCodes":
+        "en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",
+    "languages":
+        "Hindi 41%, Bengali 8.1%, Telugu 7.2%, Marathi 7%, Tamil 5.9%, Urdu 5%, Gujarati 4.5%, Kannada 3.7%, Malayalam 3.2%, Oriya 3.2%, Punjabi 2.8%, Assamese 1.3%, Maithili 1.2%, other 5.9%",
     "areaKM2": 3287590,
     "internetHosts": 6746000,
     "internetUsers": 61338000,
@@ -1330,7 +1388,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "ID": {
     "geoNameId": 1643084,
     "languageCodes": "id,en,nl,jv",
-    "languages": "Bahasa Indonesia (official, modified form of Malay), English, Dutch, local dialects (of which the most widely spoken is Javanese)",
+    "languages":
+        "Bahasa Indonesia (official, modified form of Malay), English, Dutch, local dialects (of which the most widely spoken is Javanese)",
     "areaKM2": 1919440,
     "internetHosts": 1344000,
     "internetUsers": 20000000,
@@ -1344,7 +1403,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "IR": {
     "geoNameId": 130758,
     "languageCodes": "fa-IR,ku",
-    "languages": "Persian (official) 53%, Azeri Turkic and Turkic dialects 18%, Kurdish 10%, Gilaki and Mazandarani 7%, Luri 6%, Balochi 2%, Arabic 2%, other 2%",
+    "languages":
+        "Persian (official) 53%, Azeri Turkic and Turkic dialects 18%, Kurdish 10%, Gilaki and Mazandarani 7%, Luri 6%, Balochi 2%, Arabic 2%, other 2%",
     "areaKM2": 1648000,
     "internetHosts": 197804,
     "internetUsers": 8214000,
@@ -1358,7 +1418,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "IQ": {
     "geoNameId": 99237,
     "languageCodes": "ar-IQ,ku,hy",
-    "languages": "Arabic (official), Kurdish (official), Turkmen (a Turkish dialect) and Assyrian (Neo-Aramaic) are official in areas where they constitute a majority of the population), Armenian",
+    "languages":
+        "Arabic (official), Kurdish (official), Turkmen (a Turkish dialect) and Assyrian (Neo-Aramaic) are official in areas where they constitute a majority of the population), Armenian",
     "areaKM2": 437072,
     "internetHosts": 26,
     "internetUsers": 325900,
@@ -1372,7 +1433,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "IE": {
     "geoNameId": 2963597,
     "languageCodes": "en-IE,ga-IE",
-    "languages": "English (official, the language generally used), Irish (Gaelic or Gaeilge) (official, spoken mainly in areas along the western coast)",
+    "languages":
+        "English (official, the language generally used), Irish (Gaelic or Gaeilge) (official, spoken mainly in areas along the western coast)",
     "areaKM2": 70280,
     "internetHosts": 1387000,
     "internetUsers": 3042000,
@@ -1386,7 +1448,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "IM": {
     "geoNameId": 3042225,
     "languageCodes": "en,gv",
-    "languages": "English, Manx Gaelic (about 2% of the population has some knowledge)",
+    "languages":
+        "English, Manx Gaelic (about 2% of the population has some knowledge)",
     "areaKM2": 572,
     "internetHosts": 895,
     "internetUsers": "",
@@ -1400,7 +1463,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "IL": {
     "geoNameId": 294640,
     "languageCodes": "he,ar-IL,en-IL,",
-    "languages": "Hebrew (official), Arabic (used officially for Arab minority), English (most commonly used foreign language)",
+    "languages":
+        "Hebrew (official), Arabic (used officially for Arab minority), English (most commonly used foreign language)",
     "areaKM2": 20770,
     "internetHosts": 2483000,
     "internetUsers": 4525000,
@@ -1414,7 +1478,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "IT": {
     "geoNameId": 3175395,
     "languageCodes": "it-IT,de-IT,fr-IT,sc,ca,co,sl",
-    "languages": "Italian (official), German (parts of Trentino-Alto Adige region are predominantly German-speaking), French (small French-speaking minority in Valle d'Aosta region), Slovene (Slovene-speaking minority in the Trieste-Gorizia area)",
+    "languages":
+        "Italian (official), German (parts of Trentino-Alto Adige region are predominantly German-speaking), French (small French-speaking minority in Valle d'Aosta region), Slovene (Slovene-speaking minority in the Trieste-Gorizia area)",
     "areaKM2": 301230,
     "internetHosts": 25662000,
     "internetUsers": 29235000,
@@ -1428,7 +1493,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "CI": {
     "geoNameId": 2287781,
     "languageCodes": "fr-CI",
-    "languages": "French (official), 60 native dialects of which Dioula is the most widely spoken",
+    "languages":
+        "French (official), 60 native dialects of which Dioula is the most widely spoken",
     "areaKM2": 322460,
     "internetHosts": 9115,
     "internetUsers": 967300,
@@ -1470,7 +1536,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "JE": {
     "geoNameId": 3042142,
     "languageCodes": "en,pt",
-    "languages": "English 94.5% (official), Portuguese 4.6%, other 0.9% (2001 census)",
+    "languages":
+        "English 94.5% (official), Portuguese 4.6%, other 0.9% (2001 census)",
     "areaKM2": 116,
     "internetHosts": 264,
     "internetUsers": 29500,
@@ -1484,7 +1551,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "JO": {
     "geoNameId": 248816,
     "languageCodes": "ar-JO,en",
-    "languages": "Arabic (official), English (widely understood among upper and middle classes)",
+    "languages":
+        "Arabic (official), English (widely understood among upper and middle classes)",
     "areaKM2": 92300,
     "internetHosts": 69473,
     "internetUsers": 1642000,
@@ -1498,7 +1566,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "KZ": {
     "geoNameId": 1522867,
     "languageCodes": "kk,ru",
-    "languages": "Kazakh (official, Qazaq) 64.4%, Russian (official, used in everyday business, designated the \"language of interethnic communication\") 95% (2001 est.)",
+    "languages":
+        "Kazakh (official, Qazaq) 64.4%, Russian (official, used in everyday business, designated the \"language of interethnic communication\") 95% (2001 est.)",
     "areaKM2": 2717300,
     "internetHosts": 67464,
     "internetUsers": 5299000,
@@ -1512,7 +1581,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "KE": {
     "geoNameId": 192950,
     "languageCodes": "en-KE,sw-KE",
-    "languages": "English (official), Kiswahili (official), numerous indigenous languages",
+    "languages":
+        "English (official), Kiswahili (official), numerous indigenous languages",
     "areaKM2": 582650,
     "internetHosts": 71018,
     "internetUsers": 3996000,
@@ -1540,7 +1610,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "XK": {
     "geoNameId": 831053,
     "languageCodes": "sq,sr",
-    "languages": "Albanian (official), Serbian (official), Bosnian, Turkish, Roma",
+    "languages":
+        "Albanian (official), Serbian (official), Bosnian, Turkish, Roma",
     "areaKM2": 10887,
     "internetHosts": "",
     "internetUsers": "",
@@ -1565,7 +1636,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "KG": {
     "geoNameId": 1527747,
     "languageCodes": "ky,uz,ru",
-    "languages": "Kyrgyz (official) 64.7%, Uzbek 13.6%, Russian (official) 12.5%, Dungun 1%, other 8.2% (1999 census)",
+    "languages":
+        "Kyrgyz (official) 64.7%, Uzbek 13.6%, Russian (official) 12.5%, Dungun 1%, other 8.2% (1999 census)",
     "areaKM2": 198500,
     "internetHosts": 115573,
     "internetUsers": 2195000,
@@ -1593,7 +1665,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "LV": {
     "geoNameId": 458258,
     "languageCodes": "lv,ru,lt",
-    "languages": "Latvian (official) 56.3%, Russian 33.8%, other 0.6% (includes Polish, Ukrainian, and Belarusian), unspecified 9.4% (2011 est.)",
+    "languages":
+        "Latvian (official) 56.3%, Russian 33.8%, other 0.6% (includes Polish, Ukrainian, and Belarusian), unspecified 9.4% (2011 est.)",
     "areaKM2": 64589,
     "internetHosts": 359604,
     "internetUsers": 1504000,
@@ -1621,7 +1694,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "LS": {
     "geoNameId": 932692,
     "languageCodes": "en-LS,st,zu,xh",
-    "languages": "Sesotho (official) (southern Sotho), English (official), Zulu, Xhosa",
+    "languages":
+        "Sesotho (official) (southern Sotho), English (official), Zulu, Xhosa",
     "areaKM2": 30355,
     "internetHosts": 11030,
     "internetUsers": 76800,
@@ -1635,7 +1709,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "LR": {
     "geoNameId": 2275384,
     "languageCodes": "en-LR",
-    "languages": "English 20% (official), some 20 ethnic group languages few of which can be written or used in correspondence",
+    "languages":
+        "English 20% (official), some 20 ethnic group languages few of which can be written or used in correspondence",
     "areaKM2": 111370,
     "internetHosts": 7,
     "internetUsers": 20000,
@@ -1649,7 +1724,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "LY": {
     "geoNameId": 2215636,
     "languageCodes": "ar-LY,it,en",
-    "languages": "Arabic (official), Italian, English (all widely understood in the major cities); Berber (Nafusi, Ghadamis, Suknah, Awjilah, Tamasheq)",
+    "languages":
+        "Arabic (official), Italian, English (all widely understood in the major cities); Berber (Nafusi, Ghadamis, Suknah, Awjilah, Tamasheq)",
     "areaKM2": 1759540,
     "internetHosts": 17926,
     "internetUsers": 353900,
@@ -1663,7 +1739,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "LI": {
     "geoNameId": 3042058,
     "languageCodes": "de-LI",
-    "languages": "German 94.5% (official) (Alemannic is the main dialect), Italian 1.1%, other 4.3% (2010 est.)",
+    "languages":
+        "German 94.5% (official) (Alemannic is the main dialect), Italian 1.1%, other 4.3% (2010 est.)",
     "areaKM2": 160,
     "internetHosts": 14278,
     "internetUsers": 23000,
@@ -1677,7 +1754,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "LT": {
     "geoNameId": 597427,
     "languageCodes": "lt,ru,pl",
-    "languages": "Lithuanian (official) 82%, Russian 8%, Polish 5.6%, other 0.9%, unspecified 3.5% (2011 est.)",
+    "languages":
+        "Lithuanian (official) 82%, Russian 8%, Polish 5.6%, other 0.9%, unspecified 3.5% (2011 est.)",
     "areaKM2": 65200,
     "internetHosts": 1205000,
     "internetUsers": 1964000,
@@ -1691,7 +1769,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "LU": {
     "geoNameId": 2960313,
     "languageCodes": "lb,de-LU,fr-LU",
-    "languages": "Luxembourgish (official administrative language and national language (spoken vernacular)), French (official administrative language), German (official administrative language)",
+    "languages":
+        "Luxembourgish (official administrative language and national language (spoken vernacular)), French (official administrative language), German (official administrative language)",
     "areaKM2": 2586,
     "internetHosts": 250900,
     "internetUsers": 424500,
@@ -1705,7 +1784,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "MO": {
     "geoNameId": 1821275,
     "languageCodes": "zh,zh-MO,pt",
-    "languages": "Cantonese 83.3%, Mandarin 5%, Hokkien 3.7%, English 2.3%, other Chinese dialects 2%, Tagalog 1.7%, Portuguese 0.7%, other 1.3%",
+    "languages":
+        "Cantonese 83.3%, Mandarin 5%, Hokkien 3.7%, English 2.3%, other Chinese dialects 2%, Tagalog 1.7%, Portuguese 0.7%, other 1.3%",
     "areaKM2": 254,
     "internetHosts": 327,
     "internetUsers": 270200,
@@ -1719,7 +1799,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "MK": {
     "geoNameId": 718075,
     "languageCodes": "mk,sq,tr,rmm,sr",
-    "languages": "Macedonian (official) 66.5%, Albanian (official) 25.1%, Turkish 3.5%, Roma 1.9%, Serbian 1.2%, other 1.8% (2002 census)",
+    "languages":
+        "Macedonian (official) 66.5%, Albanian (official) 25.1%, Turkish 3.5%, Roma 1.9%, Serbian 1.2%, other 1.8% (2002 census)",
     "areaKM2": 25333,
     "internetHosts": 62826,
     "internetUsers": 1057000,
@@ -1747,7 +1828,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "MW": {
     "geoNameId": 927384,
     "languageCodes": "ny,yao,tum,swk",
-    "languages": "English (official), Chichewa (common), Chinyanja, Chiyao, Chitumbuka, Chilomwe, Chinkhonde, Chingoni, Chisena, Chitonga, Chinyakyusa, Chilambya",
+    "languages":
+        "English (official), Chichewa (common), Chinyanja, Chiyao, Chitumbuka, Chilomwe, Chinkhonde, Chingoni, Chisena, Chitonga, Chinyakyusa, Chilambya",
     "areaKM2": 118480,
     "internetHosts": 1099,
     "internetUsers": 716400,
@@ -1761,7 +1843,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "MY": {
     "geoNameId": 1733045,
     "languageCodes": "ms-MY,en,zh,ta,te,ml,pa,th",
-    "languages": "Bahasa Malaysia (official), English, Chinese (Cantonese, Mandarin, Hokkien, Hakka, Hainan, Foochow), Tamil, Telugu, Malayalam, Panjabi, Thai",
+    "languages":
+        "Bahasa Malaysia (official), English, Chinese (Cantonese, Mandarin, Hokkien, Hakka, Hainan, Foochow), Tamil, Telugu, Malayalam, Panjabi, Thai",
     "areaKM2": 329750,
     "internetHosts": 422470,
     "internetUsers": 15355000,
@@ -1775,7 +1858,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "MV": {
     "geoNameId": 1282028,
     "languageCodes": "dv,en",
-    "languages": "Dhivehi (official, dialect of Sinhala, script derived from Arabic), English (spoken by most government officials)",
+    "languages":
+        "Dhivehi (official, dialect of Sinhala, script derived from Arabic), English (spoken by most government officials)",
     "areaKM2": 300,
     "internetHosts": 3296,
     "internetUsers": 86400,
@@ -1789,7 +1873,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "ML": {
     "geoNameId": 2453866,
     "languageCodes": "fr-ML,bm",
-    "languages": "French (official), Bambara 46.3%, Peul/foulfoulbe 9.4%, Dogon 7.2%, Maraka/soninke 6.4%, Malinke 5.6%, Sonrhai/djerma 5.6%, Minianka 4.3%, Tamacheq 3.5%, Senoufo 2.6%, unspecified 0.6%, other 8.5%",
+    "languages":
+        "French (official), Bambara 46.3%, Peul/foulfoulbe 9.4%, Dogon 7.2%, Maraka/soninke 6.4%, Malinke 5.6%, Sonrhai/djerma 5.6%, Minianka 4.3%, Tamacheq 3.5%, Senoufo 2.6%, unspecified 0.6%, other 8.5%",
     "areaKM2": 1240000,
     "internetHosts": 437,
     "internetUsers": 249800,
@@ -1803,7 +1888,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "MT": {
     "geoNameId": 2562770,
     "languageCodes": "mt,en-MT",
-    "languages": "Maltese (official) 90.1%, English (official) 6%, multilingual 3%, other 0.9% (2005 est.)",
+    "languages":
+        "Maltese (official) 90.1%, English (official) 6%, multilingual 3%, other 0.9% (2005 est.)",
     "areaKM2": 316,
     "internetHosts": 14754,
     "internetUsers": 240600,
@@ -1817,7 +1903,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "MH": {
     "geoNameId": 2080185,
     "languageCodes": "mh,en-MH",
-    "languages": "Marshallese (official) 98.2%, other languages 1.8% (1999 census)",
+    "languages":
+        "Marshallese (official) 98.2%, other languages 1.8% (1999 census)",
     "areaKM2": 181,
     "internetHosts": 3,
     "internetUsers": 2200,
@@ -1831,7 +1918,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "MR": {
     "geoNameId": 2378080,
     "languageCodes": "ar-MR,fuc,snk,fr,mey,wo",
-    "languages": "Arabic (official and national), Pulaar, Soninke, Wolof (all national languages), French, Hassaniya (a variety of Arabic)",
+    "languages":
+        "Arabic (official and national), Pulaar, Soninke, Wolof (all national languages), French, Hassaniya (a variety of Arabic)",
     "areaKM2": 1030700,
     "internetHosts": 22,
     "internetUsers": 75000,
@@ -1845,7 +1933,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "MU": {
     "geoNameId": 934292,
     "languageCodes": "en-MU,bho,fr",
-    "languages": "Creole 86.5%, Bhojpuri 5.3%, French 4.1%, two languages 1.4%, other 2.6% (includes English, the official language, which is spoken by less than 1% of the population), unspecified 0.1% (2011 est.)",
+    "languages":
+        "Creole 86.5%, Bhojpuri 5.3%, French 4.1%, two languages 1.4%, other 2.6% (includes English, the official language, which is spoken by less than 1% of the population), unspecified 0.1% (2011 est.)",
     "areaKM2": 2040,
     "internetHosts": 51139,
     "internetUsers": 290000,
@@ -1873,7 +1962,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "MX": {
     "geoNameId": 3996063,
     "languageCodes": "es-MX",
-    "languages": "Spanish only 92.7%, Spanish and indigenous languages 5.7%, indigenous only 0.8%, unspecified 0.8%",
+    "languages":
+        "Spanish only 92.7%, Spanish and indigenous languages 5.7%, indigenous only 0.8%, unspecified 0.8%",
     "areaKM2": 1972550,
     "internetHosts": 16233000,
     "internetUsers": 31020000,
@@ -1887,7 +1977,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "FM": {
     "geoNameId": 2081918,
     "languageCodes": "en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg",
-    "languages": "English (official and common language), Chuukese, Kosrean, Pohnpeian, Yapese, Ulithian, Woleaian, Nukuoro, Kapingamarangi",
+    "languages":
+        "English (official and common language), Chuukese, Kosrean, Pohnpeian, Yapese, Ulithian, Woleaian, Nukuoro, Kapingamarangi",
     "areaKM2": 702,
     "internetHosts": 4668,
     "internetUsers": 17000,
@@ -1901,7 +1992,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "MD": {
     "geoNameId": 617790,
     "languageCodes": "ro,ru,gag,tr",
-    "languages": "Moldovan 58.8% (official; virtually the same as the Romanian language), Romanian 16.4%, Russian 16%, Ukrainian 3.8%, Gagauz 3.1% (a Turkish language), Bulgarian 1.1%, other 0.3%, unspecified 0.4%",
+    "languages":
+        "Moldovan 58.8% (official; virtually the same as the Romanian language), Romanian 16.4%, Russian 16%, Ukrainian 3.8%, Gagauz 3.1% (a Turkish language), Bulgarian 1.1%, other 0.3%, unspecified 0.4%",
     "areaKM2": 33843,
     "internetHosts": 711564,
     "internetUsers": 1333000,
@@ -1943,7 +2035,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "ME": {
     "geoNameId": 3194884,
     "languageCodes": "sr,hu,bs,sq,hr,rom",
-    "languages": "Serbian 42.9%, Montenegrin (official) 37%, Bosnian 5.3%, Albanian 5.3%, Serbo-Croat 2%, other 3.5%, unspecified 4% (2011 est.)",
+    "languages":
+        "Serbian 42.9%, Montenegrin (official) 37%, Bosnian 5.3%, Albanian 5.3%, Serbo-Croat 2%, other 3.5%, unspecified 4% (2011 est.)",
     "areaKM2": 14026,
     "internetHosts": 10088,
     "internetUsers": 280000,
@@ -1971,7 +2064,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "MA": {
     "geoNameId": 2542007,
     "languageCodes": "ar-MA,fr",
-    "languages": "Arabic (official), Berber languages (Tamazight (official), Tachelhit, Tarifit), French (often the language of business, government, and diplomacy)",
+    "languages":
+        "Arabic (official), Berber languages (Tamazight (official), Tachelhit, Tarifit), French (often the language of business, government, and diplomacy)",
     "areaKM2": 446550,
     "internetHosts": 277338,
     "internetUsers": 13213000,
@@ -1985,7 +2079,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "MZ": {
     "geoNameId": 1036973,
     "languageCodes": "pt-MZ,vmw",
-    "languages": "Emakhuwa 25.3%, Portuguese (official) 10.7%, Xichangana 10.3%, Cisena 7.5%, Elomwe 7%, Echuwabo 5.1%, other Mozambican languages 30.1%, other 4% (1997 census)",
+    "languages":
+        "Emakhuwa 25.3%, Portuguese (official) 10.7%, Xichangana 10.3%, Cisena 7.5%, Elomwe 7%, Echuwabo 5.1%, other Mozambican languages 30.1%, other 4% (1997 census)",
     "areaKM2": 801590,
     "internetHosts": 89737,
     "internetUsers": 613600,
@@ -2013,7 +2108,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "NA": {
     "geoNameId": 3355338,
     "languageCodes": "en-NA,af,de,hz,naq",
-    "languages": "Oshiwambo languages 48.9%, Nama/Damara 11.3%, Afrikaans 10.4% (common language of most of the population and about 60% of the white population), Otjiherero languages 8.6%, Kavango languages 8.5%, Caprivi languages 4.8%, English (official) 3.4%, other African languages 2.3%, other 1.7%",
+    "languages":
+        "Oshiwambo languages 48.9%, Nama/Damara 11.3%, Afrikaans 10.4% (common language of most of the population and about 60% of the white population), Otjiherero languages 8.6%, Kavango languages 8.5%, Caprivi languages 4.8%, English (official) 3.4%, other African languages 2.3%, other 1.7%",
     "areaKM2": 825418,
     "internetHosts": 78280,
     "internetUsers": 127500,
@@ -2027,7 +2123,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "NR": {
     "geoNameId": 2110425,
     "languageCodes": "na,en-NR",
-    "languages": "Nauruan 93% (official, a distinct Pacific Island language), English 2% (widely understood, spoken, and used for most government and commercial purposes), other 5% (includes I-Kiribati 2% and Chinese 2%)",
+    "languages":
+        "Nauruan 93% (official, a distinct Pacific Island language), English 2% (widely understood, spoken, and used for most government and commercial purposes), other 5% (includes I-Kiribati 2% and Chinese 2%)",
     "areaKM2": 21,
     "internetHosts": 8162,
     "internetUsers": "",
@@ -2041,7 +2138,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "NP": {
     "geoNameId": 1282988,
     "languageCodes": "ne,en",
-    "languages": "Nepali (official) 44.6%, Maithali 11.7%, Bhojpuri 6%, Tharu 5.8%, Tamang 5.1%, Newar 3.2%, Magar 3%, Bajjika 3%, Urdu 2.6%, Avadhi 1.9%, Limbu 1.3%, Gurung 1.2%, other 10.4%, unspecified 0.2%",
+    "languages":
+        "Nepali (official) 44.6%, Maithali 11.7%, Bhojpuri 6%, Tharu 5.8%, Tamang 5.1%, Newar 3.2%, Magar 3%, Bajjika 3%, Urdu 2.6%, Avadhi 1.9%, Limbu 1.3%, Gurung 1.2%, other 10.4%, unspecified 0.2%",
     "areaKM2": 140800,
     "internetHosts": 41256,
     "internetUsers": 577800,
@@ -2096,7 +2194,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "NZ": {
     "geoNameId": 2186224,
     "languageCodes": "en-NZ,mi",
-    "languages": "English (de facto official) 89.8%, Maori (de jure official) 3.5%, Samoan 2%, Hindi 1.6%, French 1.2%, Northern Chinese 1.2%, Yue 1%, Other or not stated 20.5%, New Zealand Sign Language (de jure official)",
+    "languages":
+        "English (de facto official) 89.8%, Maori (de jure official) 3.5%, Samoan 2%, Hindi 1.6%, French 1.2%, Northern Chinese 1.2%, Yue 1%, Other or not stated 20.5%, New Zealand Sign Language (de jure official)",
     "areaKM2": 268680,
     "internetHosts": 3026000,
     "internetUsers": 3400000,
@@ -2110,7 +2209,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "NI": {
     "geoNameId": 3617476,
     "languageCodes": "es-NI,en",
-    "languages": "Spanish (official) 95.3%, Miskito 2.2%, Mestizo of the Caribbean coast 2%, other 0.5%",
+    "languages":
+        "Spanish (official) 95.3%, Miskito 2.2%, Mestizo of the Caribbean coast 2%, other 0.5%",
     "areaKM2": 129494,
     "internetHosts": 296068,
     "internetUsers": 199800,
@@ -2138,7 +2238,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "NG": {
     "geoNameId": 2328926,
     "languageCodes": "en-NG,ha,yo,ig,ff",
-    "languages": "English (official), Hausa, Yoruba, Igbo (Ibo), Fulani, over 500 additional indigenous languages",
+    "languages":
+        "English (official), Hausa, Yoruba, Igbo (Ibo), Fulani, over 500 additional indigenous languages",
     "areaKM2": 923768,
     "internetHosts": 1234,
     "internetUsers": 43989000,
@@ -2152,7 +2253,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "NU": {
     "geoNameId": 4036232,
     "languageCodes": "niu,en-NU",
-    "languages": "Niuean (official) 46% (a Polynesian language closely related to Tongan and Samoan), Niuean and English 32%, English (official) 11%, Niuean and others 5%, other 6% (2011 est.)",
+    "languages":
+        "Niuean (official) 46% (a Polynesian language closely related to Tongan and Samoan), Niuean and English 32%, English (official) 11%, Niuean and others 5%, other 6% (2011 est.)",
     "areaKM2": 260,
     "internetHosts": 79508,
     "internetUsers": 1100,
@@ -2180,7 +2282,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "MP": {
     "geoNameId": 4041468,
     "languageCodes": "fil,tl,zh,ch-MP,en-MP",
-    "languages": "Philippine languages 32.8%, Chamorro (official) 24.1%, English (official) 17%, other Pacific island languages 10.1%, Chinese 6.8%, other Asian languages 7.3%, other 1.9% (2010 est.)",
+    "languages":
+        "Philippine languages 32.8%, Chamorro (official) 24.1%, English (official) 17%, other Pacific island languages 10.1%, Chinese 6.8%, other Asian languages 7.3%, other 1.9% (2010 est.)",
     "areaKM2": 477,
     "internetHosts": 17,
     "internetUsers": "",
@@ -2194,7 +2297,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "NO": {
     "geoNameId": 3144096,
     "languageCodes": "no,nb,nn,se,fi",
-    "languages": "Bokmal Norwegian (official), Nynorsk Norwegian (official), small Sami- and Finnish-speaking minorities",
+    "languages":
+        "Bokmal Norwegian (official), Nynorsk Norwegian (official), small Sami- and Finnish-speaking minorities",
     "areaKM2": 324220,
     "internetHosts": 3588000,
     "internetUsers": 4431000,
@@ -2222,7 +2326,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "PK": {
     "geoNameId": 1168579,
     "languageCodes": "ur-PK,en-PK,pa,sd,ps,brh",
-    "languages": "Punjabi 48%, Sindhi 12%, Saraiki (a Punjabi variant) 10%, Pashto (alternate name, Pashtu) 8%, Urdu (official) 8%, Balochi 3%, Hindko 2%, Brahui 1%, English (official; lingua franca of Pakistani elite and most government ministries), Burushaski, and other 8%",
+    "languages":
+        "Punjabi 48%, Sindhi 12%, Saraiki (a Punjabi variant) 10%, Pashto (alternate name, Pashtu) 8%, Urdu (official) 8%, Balochi 3%, Hindko 2%, Brahui 1%, English (official; lingua franca of Pakistani elite and most government ministries), Burushaski, and other 8%",
     "areaKM2": 803940,
     "internetHosts": 365813,
     "internetUsers": 20431000,
@@ -2236,7 +2341,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "PW": {
     "geoNameId": 1559582,
     "languageCodes": "pau,sov,en-PW,tox,ja,fil,zh",
-    "languages": "Palauan (official on most islands) 66.6%, Carolinian 0.7%, other Micronesian 0.7%, English (official) 15.5%, Filipino 10.8%, Chinese 1.8%, other Asian 2.6%, other 1.3%",
+    "languages":
+        "Palauan (official on most islands) 66.6%, Carolinian 0.7%, other Micronesian 0.7%, English (official) 15.5%, Filipino 10.8%, Chinese 1.8%, other Asian 2.6%, other 1.3%",
     "areaKM2": 458,
     "internetHosts": 4,
     "internetUsers": "",
@@ -2278,7 +2384,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "PG": {
     "geoNameId": 2088628,
     "languageCodes": "en-PG,ho,meu,tpi",
-    "languages": "Tok Pisin (official), English (official), Hiri Motu (official), some 836 indigenous languages spoken (about 12% of the world's total); most languages have fewer than 1,000 speakers",
+    "languages":
+        "Tok Pisin (official), English (official), Hiri Motu (official), some 836 indigenous languages spoken (about 12% of the world's total); most languages have fewer than 1,000 speakers",
     "areaKM2": 462840,
     "internetHosts": 5006,
     "internetUsers": 125000,
@@ -2306,7 +2413,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "PE": {
     "geoNameId": 3932488,
     "languageCodes": "es-PE,qu,ay",
-    "languages": "Spanish (official) 84.1%, Quechua (official) 13%, Aymara (official) 1.7%, Ashaninka 0.3%, other native languages (includes a large number of minor Amazonian languages) 0.7%, other (includes foreign languages and sign language) 0.2% (2007 est.)",
+    "languages":
+        "Spanish (official) 84.1%, Quechua (official) 13%, Aymara (official) 1.7%, Ashaninka 0.3%, other native languages (includes a large number of minor Amazonian languages) 0.7%, other (includes foreign languages and sign language) 0.2% (2007 est.)",
     "areaKM2": 1285220,
     "internetHosts": 234102,
     "internetUsers": 9158000,
@@ -2320,7 +2428,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "PH": {
     "geoNameId": 1694008,
     "languageCodes": "tl,en-PH,fil",
-    "languages": "Filipino (official; based on Tagalog) and English (official); eight major dialects - Tagalog, Cebuano, Ilocano, Hiligaynon or Ilonggo, Bicol, Waray, Pampango, and Pangasinan",
+    "languages":
+        "Filipino (official; based on Tagalog) and English (official); eight major dialects - Tagalog, Cebuano, Ilocano, Hiligaynon or Ilonggo, Bicol, Waray, Pampango, and Pangasinan",
     "areaKM2": 300000,
     "internetHosts": 425812,
     "internetUsers": 8278000,
@@ -2348,7 +2457,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "PL": {
     "geoNameId": 798544,
     "languageCodes": "pl",
-    "languages": "Polish (official) 96.2%, Polish and non-Polish 2%, non-Polish 0.5%, unspecified 1.3%",
+    "languages":
+        "Polish (official) 96.2%, Polish and non-Polish 2%, non-Polish 0.5%, unspecified 1.3%",
     "areaKM2": 312685,
     "internetHosts": 13265000,
     "internetUsers": 22452000,
@@ -2362,7 +2472,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "PT": {
     "geoNameId": 2264397,
     "languageCodes": "pt-PT,mwl",
-    "languages": "Portuguese (official), Mirandese (official, but locally used)",
+    "languages":
+        "Portuguese (official), Mirandese (official, but locally used)",
     "areaKM2": 92391,
     "internetHosts": 3748000,
     "internetUsers": 5168000,
@@ -2390,7 +2501,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "QA": {
     "geoNameId": 289688,
     "languageCodes": "ar-QA,es",
-    "languages": "Arabic (official), English commonly used as a second language",
+    "languages":
+        "Arabic (official), English commonly used as a second language",
     "areaKM2": 11437,
     "internetHosts": 897,
     "internetUsers": 563800,
@@ -2404,7 +2516,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "CG": {
     "geoNameId": 2260494,
     "languageCodes": "fr-CG,kg,ln-CG",
-    "languages": "French (official), Lingala and Monokutuba (lingua franca trade languages), many local languages and dialects (of which Kikongo is the most widespread)",
+    "languages":
+        "French (official), Lingala and Monokutuba (lingua franca trade languages), many local languages and dialects (of which Kikongo is the most widespread)",
     "areaKM2": 342000,
     "internetHosts": 45,
     "internetUsers": 245200,
@@ -2432,7 +2545,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "RO": {
     "geoNameId": 798549,
     "languageCodes": "ro,hu,rom",
-    "languages": "Romanian (official) 85.4%, Hungarian 6.3%, Romany (Gypsy) 1.2%, other 1%, unspecified 6.1% (2011 est.)",
+    "languages":
+        "Romanian (official) 85.4%, Hungarian 6.3%, Romany (Gypsy) 1.2%, other 1%, unspecified 6.1% (2011 est.)",
     "areaKM2": 237500,
     "internetHosts": 2667000,
     "internetUsers": 7787000,
@@ -2445,8 +2559,10 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   },
   "RU": {
     "geoNameId": 2017370,
-    "languageCodes": "ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,ava,sah,nog",
-    "languages": "Russian (official) 96.3%, Dolgang 5.3%, German 1.5%, Chechen 1%, Tatar 3%, other 10.3%",
+    "languageCodes":
+        "ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,ava,sah,nog",
+    "languages":
+        "Russian (official) 96.3%, Dolgang 5.3%, German 1.5%, Chechen 1%, Tatar 3%, other 10.3%",
     "areaKM2": 17100000,
     "internetHosts": 14865000,
     "internetUsers": 40853000,
@@ -2460,7 +2576,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "RW": {
     "geoNameId": 49518,
     "languageCodes": "rw,en-RW,fr-RW,sw",
-    "languages": "Kinyarwanda only (official, universal Bantu vernacular) 93.2%, Kinyarwanda and other language(s) 6.2%, French (official) and other language(s) 0.1%, English (official) and other language(s) 0.1%, Swahili (or Kiswahili, used in commercial centers) 0.02%, other 0.03%, unspecified 0.3% (2002 est.)",
+    "languages":
+        "Kinyarwanda only (official, universal Bantu vernacular) 93.2%, Kinyarwanda and other language(s) 6.2%, French (official) and other language(s) 0.1%, English (official) and other language(s) 0.1%, Swahili (or Kiswahili, used in commercial centers) 0.02%, other 0.03%, unspecified 0.3% (2002 est.)",
     "areaKM2": 26338,
     "internetHosts": 1447,
     "internetUsers": 450000,
@@ -2530,7 +2647,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "MF": {
     "geoNameId": 3578421,
     "languageCodes": "fr",
-    "languages": "French (official), English, Dutch, French Patois, Spanish, Papiamento (dialect of Netherlands Antilles)",
+    "languages":
+        "French (official), English, Dutch, French Patois, Spanish, Papiamento (dialect of Netherlands Antilles)",
     "areaKM2": 53,
     "internetHosts": "",
     "internetUsers": "",
@@ -2600,7 +2718,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "ST": {
     "geoNameId": 2410758,
     "languageCodes": "pt-ST",
-    "languages": "Portuguese 98.4% (official), Forro 36.2%, Cabo Verdian 8.5%, French 6.8%, Angolar 6.6%, English 4.9%, Lunguie 1%, other (including sign language) 2.4%",
+    "languages":
+        "Portuguese 98.4% (official), Forro 36.2%, Cabo Verdian 8.5%, French 6.8%, Angolar 6.6%, English 4.9%, Lunguie 1%, other (including sign language) 2.4%",
     "areaKM2": 1001,
     "internetHosts": 1678,
     "internetUsers": 26700,
@@ -2642,7 +2761,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "RS": {
     "geoNameId": 6290252,
     "languageCodes": "sr,hu,bs,rom",
-    "languages": "Serbian (official) 88.1%, Hungarian 3.4%, Bosnian 1.9%, Romany 1.4%, other 3.4%, undeclared or unknown 1.8%",
+    "languages":
+        "Serbian (official) 88.1%, Hungarian 3.4%, Bosnian 1.9%, Romany 1.4%, other 3.4%, undeclared or unknown 1.8%",
     "areaKM2": 88361,
     "internetHosts": 1102000,
     "internetUsers": 4107000,
@@ -2656,7 +2776,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "SC": {
     "geoNameId": 241170,
     "languageCodes": "en-SC,fr-SC",
-    "languages": "Seychellois Creole (official) 89.1%, English (official) 5.1%, French (official) 0.7%, other 3.8%, unspecified 1.4% (2010 est.)",
+    "languages":
+        "Seychellois Creole (official) 89.1%, English (official) 5.1%, French (official) 0.7%, other 3.8%, unspecified 1.4% (2010 est.)",
     "areaKM2": 455,
     "internetHosts": 247,
     "internetUsers": 32000,
@@ -2670,7 +2791,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "SL": {
     "geoNameId": 2403846,
     "languageCodes": "en-SL,men,tem",
-    "languages": "English (official, regular use limited to literate minority), Mende (principal vernacular in the south), Temne (principal vernacular in the north), Krio (English-based Creole, spoken by the descendants of freed Jamaican slaves who were settled in the Freetown area, a lingua franca and a first language for 10% of the population but understood by 95%)",
+    "languages":
+        "English (official, regular use limited to literate minority), Mende (principal vernacular in the south), Temne (principal vernacular in the north), Krio (English-based Creole, spoken by the descendants of freed Jamaican slaves who were settled in the Freetown area, a lingua franca and a first language for 10% of the population but understood by 95%)",
     "areaKM2": 71740,
     "internetHosts": 282,
     "internetUsers": 14900,
@@ -2684,7 +2806,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "SG": {
     "geoNameId": 1880251,
     "languageCodes": "cmn,en-SG,ms-SG,ta-SG,zh-SG",
-    "languages": "Mandarin (official) 36.3%, English (official) 29.8%, Malay (official) 11.9%, Hokkien 8.1%, Tamil (official) 4.4%, Cantonese 4.1%, Teochew 3.2%, other Indian languages 1.2%, other Chinese dialects 1.1%, other 1.1% (2010 est.)",
+    "languages":
+        "Mandarin (official) 36.3%, English (official) 29.8%, Malay (official) 11.9%, Hokkien 8.1%, Tamil (official) 4.4%, Cantonese 4.1%, Teochew 3.2%, other Indian languages 1.2%, other Chinese dialects 1.1%, other 1.1% (2010 est.)",
     "areaKM2": 693,
     "internetHosts": 1960000,
     "internetUsers": 3235000,
@@ -2698,7 +2821,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "SX": {
     "geoNameId": 7609695,
     "languageCodes": "nl,en",
-    "languages": "English (official) 67.5%, Spanish 12.9%, Creole 8.2%, Dutch (official) 4.2%, Papiamento (a Spanish-Portuguese-Dutch-English dialect) 2.2%, French 1.5%, other 3.5% (2001 census)",
+    "languages":
+        "English (official) 67.5%, Spanish 12.9%, Creole 8.2%, Dutch (official) 4.2%, Papiamento (a Spanish-Portuguese-Dutch-English dialect) 2.2%, French 1.5%, other 3.5% (2001 census)",
     "areaKM2": 34,
     "internetHosts": "",
     "internetUsers": "",
@@ -2710,7 +2834,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "SK": {
     "geoNameId": 3057568,
     "languageCodes": "sk,hu",
-    "languages": "Slovak (official) 78.6%, Hungarian 9.4%, Roma 2.3%, Ruthenian 1%, other or unspecified 8.8% (2011 est.)",
+    "languages":
+        "Slovak (official) 78.6%, Hungarian 9.4%, Roma 2.3%, Ruthenian 1%, other or unspecified 8.8% (2011 est.)",
     "areaKM2": 48845,
     "internetHosts": 1384000,
     "internetUsers": 4063000,
@@ -2724,7 +2849,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "SI": {
     "geoNameId": 3190538,
     "languageCodes": "sl,sh",
-    "languages": "Slovenian (official) 91.1%, Serbo-Croatian 4.5%, other or unspecified 4.4%, Italian (official, only in municipalities where Italian national communities reside), Hungarian (official, only in municipalities where Hungarian national communities reside) (2002 census)",
+    "languages":
+        "Slovenian (official) 91.1%, Serbo-Croatian 4.5%, other or unspecified 4.4%, Italian (official, only in municipalities where Italian national communities reside), Hungarian (official, only in municipalities where Hungarian national communities reside) (2002 census)",
     "areaKM2": 20273,
     "internetHosts": 415581,
     "internetUsers": 1298000,
@@ -2738,7 +2864,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "SB": {
     "geoNameId": 2103350,
     "languageCodes": "en-SB,tpi",
-    "languages": "Melanesian pidgin (in much of the country is lingua franca), English (official but spoken by only 1%-2% of the population), 120 indigenous languages",
+    "languages":
+        "Melanesian pidgin (in much of the country is lingua franca), English (official but spoken by only 1%-2% of the population), 120 indigenous languages",
     "areaKM2": 28450,
     "internetHosts": 4370,
     "internetUsers": 10000,
@@ -2752,7 +2879,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "SO": {
     "geoNameId": 51537,
     "languageCodes": "so-SO,ar-SO,it,en-SO",
-    "languages": "Somali (official), Arabic (official, according to the Transitional Federal Charter), Italian, English",
+    "languages":
+        "Somali (official), Arabic (official, according to the Transitional Federal Charter), Italian, English",
     "areaKM2": 637657,
     "internetHosts": 186,
     "internetUsers": 106000,
@@ -2766,7 +2894,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "ZA": {
     "geoNameId": 953987,
     "languageCodes": "zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr",
-    "languages": "IsiZulu (official) 22.7%, IsiXhosa (official) 16%, Afrikaans (official) 13.5%, English (official) 9.6%, Sepedi (official) 9.1%, Setswana (official) 8%, Sesotho (official) 7.6%, Xitsonga (official) 4.5%, siSwati (official) 2.5%, Tshivenda (official) 2.4%, isiNdebele (official) 2.1%, sign language 0.5%, other 1.6% (2011 est.)",
+    "languages":
+        "IsiZulu (official) 22.7%, IsiXhosa (official) 16%, Afrikaans (official) 13.5%, English (official) 9.6%, Sepedi (official) 9.1%, Setswana (official) 8%, Sesotho (official) 7.6%, Xitsonga (official) 4.5%, siSwati (official) 2.5%, Tshivenda (official) 2.4%, isiNdebele (official) 2.1%, sign language 0.5%, other 1.6% (2011 est.)",
     "areaKM2": 1219912,
     "internetHosts": 4761000,
     "internetUsers": 4420000,
@@ -2780,7 +2909,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "KR": {
     "geoNameId": 1835841,
     "languageCodes": "ko-KR,en",
-    "languages": "Korean, English (widely taught in junior high and high school)",
+    "languages":
+        "Korean, English (widely taught in junior high and high school)",
     "areaKM2": 98480,
     "internetHosts": 315697,
     "internetUsers": 39400000,
@@ -2794,7 +2924,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "SS": {
     "geoNameId": 7909807,
     "languageCodes": "en",
-    "languages": "English (official), Arabic (includes Juba and Sudanese variants), regional languages include Dinka, Nuer, Bari, Zande, Shilluk",
+    "languages":
+        "English (official), Arabic (includes Juba and Sudanese variants), regional languages include Dinka, Nuer, Bari, Zande, Shilluk",
     "areaKM2": 644329,
     "internetHosts": "",
     "internetUsers": "",
@@ -2807,7 +2938,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "ES": {
     "geoNameId": 2510769,
     "languageCodes": "es-ES,ca,gl,eu,oc",
-    "languages": "Castilian Spanish (official) 74%, Catalan 17%, Galician 7%, and Basque 2%",
+    "languages":
+        "Castilian Spanish (official) 74%, Catalan 17%, Galician 7%, and Basque 2%",
     "areaKM2": 504782,
     "internetHosts": 4228000,
     "internetUsers": 28119000,
@@ -2821,7 +2953,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "LK": {
     "geoNameId": 1227603,
     "languageCodes": "si,ta,en",
-    "languages": "Sinhala (official and national language) 74%, Tamil (national language) 18%, other 8%",
+    "languages":
+        "Sinhala (official and national language) 74%, Tamil (national language) 18%, other 8%",
     "areaKM2": 65610,
     "internetHosts": 9552,
     "internetUsers": 1777000,
@@ -2835,7 +2968,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "SD": {
     "geoNameId": 366755,
     "languageCodes": "ar-SD,en,fia",
-    "languages": "Arabic (official), English (official), Nubian, Ta Bedawie, Fur",
+    "languages":
+        "Arabic (official), English (official), Nubian, Ta Bedawie, Fur",
     "areaKM2": 1861484,
     "internetHosts": 99,
     "internetUsers": 4200000,
@@ -2849,7 +2983,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "SR": {
     "geoNameId": 3382998,
     "languageCodes": "nl-SR,en,srn,hns,jv",
-    "languages": "Dutch (official), English (widely spoken), Sranang Tongo (Surinamese, sometimes called Taki-Taki, is native language of Creoles and much of the younger population and is lingua franca among others), Caribbean Hindustani (a dialect of Hindi), Javanese",
+    "languages":
+        "Dutch (official), English (widely spoken), Sranang Tongo (Surinamese, sometimes called Taki-Taki, is native language of Creoles and much of the younger population and is lingua franca among others), Caribbean Hindustani (a dialect of Hindi), Javanese",
     "areaKM2": 163270,
     "internetHosts": 188,
     "internetUsers": 163000,
@@ -2877,7 +3012,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "SZ": {
     "geoNameId": 934841,
     "languageCodes": "en-SZ,ss-SZ",
-    "languages": "English (official, used for government business), siSwati (official)",
+    "languages":
+        "English (official, used for government business), siSwati (official)",
     "areaKM2": 17363,
     "internetHosts": 2744,
     "internetUsers": 90100,
@@ -2891,7 +3027,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "SE": {
     "geoNameId": 2661886,
     "languageCodes": "sv-SE,se,sma,fi-SE",
-    "languages": "Swedish (official), small Sami- and Finnish-speaking minorities",
+    "languages":
+        "Swedish (official), small Sami- and Finnish-speaking minorities",
     "areaKM2": 449964,
     "internetHosts": 5978000,
     "internetUsers": 8398000,
@@ -2905,7 +3042,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "CH": {
     "geoNameId": 2658434,
     "languageCodes": "de-CH,fr-CH,it-CH,rm",
-    "languages": "German (official) 64.9%, French (official) 22.6%, Italian (official) 8.3%, Serbo-Croatian 2.5%, Albanian 2.6%, Portuguese 3.4%, Spanish 2.2%, English 4.6%, Romansch (official) 0.5%, other 5.1%",
+    "languages":
+        "German (official) 64.9%, French (official) 22.6%, Italian (official) 8.3%, Serbo-Croatian 2.5%, Albanian 2.6%, Portuguese 3.4%, Spanish 2.2%, English 4.6%, Romansch (official) 0.5%, other 5.1%",
     "areaKM2": 41290,
     "internetHosts": 5301000,
     "internetUsers": 6152000,
@@ -2919,7 +3057,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "SY": {
     "geoNameId": 163843,
     "languageCodes": "ar-SY,ku,hy,arc,fr,en",
-    "languages": "Arabic (official), Kurdish, Armenian, Aramaic, Circassian (widely understood); French, English (somewhat understood)",
+    "languages":
+        "Arabic (official), Kurdish, Armenian, Aramaic, Circassian (widely understood); French, English (somewhat understood)",
     "areaKM2": 185180,
     "internetHosts": 416,
     "internetUsers": 4469000,
@@ -2947,7 +3086,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "TJ": {
     "geoNameId": 1220409,
     "languageCodes": "tg,ru",
-    "languages": "Tajik (official), Russian widely used in government and business",
+    "languages":
+        "Tajik (official), Russian widely used in government and business",
     "areaKM2": 143100,
     "internetHosts": 6258,
     "internetUsers": 700000,
@@ -2961,7 +3101,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "TZ": {
     "geoNameId": 149590,
     "languageCodes": "sw-TZ,en,ar",
-    "languages": "Kiswahili or Swahili (official), Kiunguja (name for Swahili in Zanzibar), English (official, primary language of commerce, administration, and higher education), Arabic (widely spoken in Zanzibar), many local languages",
+    "languages":
+        "Kiswahili or Swahili (official), Kiunguja (name for Swahili in Zanzibar), English (official, primary language of commerce, administration, and higher education), Arabic (widely spoken in Zanzibar), many local languages",
     "areaKM2": 945087,
     "internetHosts": 26074,
     "internetUsers": 678000,
@@ -2989,7 +3130,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "TG": {
     "geoNameId": 2363686,
     "languageCodes": "fr-TG,ee,hna,kbp,dag,ha",
-    "languages": "French (official, the language of commerce), Ewe and Mina (the two major African languages in the south), Kabye (sometimes spelled Kabiye) and Dagomba (the two major African languages in the north)",
+    "languages":
+        "French (official, the language of commerce), Ewe and Mina (the two major African languages in the south), Kabye (sometimes spelled Kabiye) and Dagomba (the two major African languages in the north)",
     "areaKM2": 56785,
     "internetHosts": 1168,
     "internetUsers": 356300,
@@ -3003,7 +3145,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "TK": {
     "geoNameId": 4031074,
     "languageCodes": "tkl,en-TK",
-    "languages": "Tokelauan 93.5% (a Polynesian language), English 58.9%, Samoan 45.5%, Tuvaluan 11.6%, Kiribati 2.7%, other 2.5%, none 4.1%, unspecified 0.6%",
+    "languages":
+        "Tokelauan 93.5% (a Polynesian language), English 58.9%, Samoan 45.5%, Tuvaluan 11.6%, Kiribati 2.7%, other 2.5%, none 4.1%, unspecified 0.6%",
     "areaKM2": 10,
     "internetHosts": 2069,
     "internetUsers": 800,
@@ -3017,7 +3160,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "TO": {
     "geoNameId": 4032283,
     "languageCodes": "to,en-TO",
-    "languages": "English and Tongan 87%, Tongan (official) 10.7%, English (official) 1.2%, other 1.1%, uspecified 0.03% (2006 est.)",
+    "languages":
+        "English and Tongan 87%, Tongan (official) 10.7%, English (official) 1.2%, other 1.1%, uspecified 0.03% (2006 est.)",
     "areaKM2": 748,
     "internetHosts": 5367,
     "internetUsers": 8400,
@@ -3031,7 +3175,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "TT": {
     "geoNameId": 3573591,
     "languageCodes": "en-TT,hns,fr,es,zh",
-    "languages": "English (official), Caribbean Hindustani (a dialect of Hindi), French, Spanish, Chinese",
+    "languages":
+        "English (official), Caribbean Hindustani (a dialect of Hindi), French, Spanish, Chinese",
     "areaKM2": 5128,
     "internetHosts": 241690,
     "internetUsers": 593000,
@@ -3045,7 +3190,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "TN": {
     "geoNameId": 2464461,
     "languageCodes": "ar-TN,fr",
-    "languages": "Arabic (official, one of the languages of commerce), French (commerce), Berber (Tamazight)",
+    "languages":
+        "Arabic (official, one of the languages of commerce), French (commerce), Berber (Tamazight)",
     "areaKM2": 163610,
     "internetHosts": 576,
     "internetUsers": 3500000,
@@ -3101,7 +3247,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "TV": {
     "geoNameId": 2110297,
     "languageCodes": "tvl,en,sm,gil",
-    "languages": "Tuvaluan (official), English (official), Samoan, Kiribati (on the island of Nui)",
+    "languages":
+        "Tuvaluan (official), English (official), Samoan, Kiribati (on the island of Nui)",
     "areaKM2": 26,
     "internetHosts": 145158,
     "internetUsers": 4200,
@@ -3115,7 +3262,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "VI": {
     "geoNameId": 4796775,
     "languageCodes": "en-VI",
-    "languages": "English 74.7%, Spanish or Spanish Creole 16.8%, French or French Creole 6.6%, other 1.9% (2000 census)",
+    "languages":
+        "English 74.7%, Spanish or Spanish Creole 16.8%, French or French Creole 6.6%, other 1.9% (2000 census)",
     "areaKM2": 352,
     "internetHosts": 4790,
     "internetUsers": 30000,
@@ -3129,7 +3277,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "UG": {
     "geoNameId": 226074,
     "languageCodes": "en-UG,lg,sw,ar",
-    "languages": "English (official national language, taught in grade schools, used in courts of law and by most newspapers and some radio broadcasts), Ganda or Luganda (most widely used of the Niger-Congo languages, preferred for native language publications in the capital and may be taught in school), other Niger-Congo languages, Nilo-Saharan languages, Swahili, Arabic",
+    "languages":
+        "English (official national language, taught in grade schools, used in courts of law and by most newspapers and some radio broadcasts), Ganda or Luganda (most widely used of the Niger-Congo languages, preferred for native language publications in the capital and may be taught in school), other Niger-Congo languages, Nilo-Saharan languages, Swahili, Arabic",
     "areaKM2": 236040,
     "internetHosts": 32683,
     "internetUsers": 3200000,
@@ -3143,7 +3292,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "UA": {
     "geoNameId": 690791,
     "languageCodes": "uk,ru-UA,rom,pl,hu",
-    "languages": "Ukrainian (official) 67%, Russian (regional language) 24%, other (includes small Romanian-, Polish-, and Hungarian-speaking minorities) 9%",
+    "languages":
+        "Ukrainian (official) 67%, Russian (regional language) 24%, other (includes small Romanian-, Polish-, and Hungarian-speaking minorities) 9%",
     "areaKM2": 603700,
     "internetHosts": 2173000,
     "internetUsers": 7770000,
@@ -3178,14 +3328,16 @@ const Map<String, Map<String, dynamic>> extraInfo = {
     "phones(Mobile)": 82109000,
     "phones(Landline)": 33010000,
     "gdp": 2490000000000,
-    "frenchShortName": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)",
+    "frenchShortName":
+        "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord (le)",
     "japaneseShortName": "イギリス",
     "emoji": "🇬🇧"
   },
   "US": {
     "geoNameId": 6252001,
     "languageCodes": "en-US,es-US,haw,fr",
-    "languages": "English 82.1%, Spanish 10.7%, other Indo-European 3.8%, Asian and Pacific island 2.7%, other 0.7% (2000 census)",
+    "languages":
+        "English 82.1%, Spanish 10.7%, other Indo-European 3.8%, Asian and Pacific island 2.7%, other 0.7% (2000 census)",
     "areaKM2": 9629091,
     "internetHosts": 505000000,
     "internetUsers": 245000000,
@@ -3199,7 +3351,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "UY": {
     "geoNameId": 3439705,
     "languageCodes": "es-UY",
-    "languages": "Spanish (official), Portunol, Brazilero (Portuguese-Spanish mix on the Brazilian frontier)",
+    "languages":
+        "Spanish (official), Portunol, Brazilero (Portuguese-Spanish mix on the Brazilian frontier)",
     "areaKM2": 176220,
     "internetHosts": 1036000,
     "internetUsers": 1405000,
@@ -3213,7 +3366,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "UZ": {
     "geoNameId": 1512440,
     "languageCodes": "uz,ru,tg",
-    "languages": "Uzbek (official) 74.3%, Russian 14.2%, Tajik 4.4%, other 7.1%",
+    "languages":
+        "Uzbek (official) 74.3%, Russian 14.2%, Tajik 4.4%, other 7.1%",
     "areaKM2": 447400,
     "internetHosts": 56075,
     "internetUsers": 4689000,
@@ -3227,7 +3381,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "VU": {
     "geoNameId": 2134431,
     "languageCodes": "bi,en-VU,fr-VU",
-    "languages": "local languages (more than 100) 63.2%, Bislama (official; creole) 33.7%, English (official) 2%, French (official) 0.6%, other 0.5% (2009 est.)",
+    "languages":
+        "local languages (more than 100) 63.2%, Bislama (official; creole) 33.7%, English (official) 2%, French (official) 0.6%, other 0.5% (2009 est.)",
     "areaKM2": 12200,
     "internetHosts": 5655,
     "internetUsers": 17000,
@@ -3269,7 +3424,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "VN": {
     "geoNameId": 1562822,
     "languageCodes": "vi,en,fr,zh,km",
-    "languages": "Vietnamese (official), English (increasingly favored as a second language), some French, Chinese, and Khmer, mountain area languages (Mon-Khmer and Malayo-Polynesian)",
+    "languages":
+        "Vietnamese (official), English (increasingly favored as a second language), some French, Chinese, and Khmer, mountain area languages (Mon-Khmer and Malayo-Polynesian)",
     "areaKM2": 329560,
     "internetHosts": 189553,
     "internetUsers": 23382000,
@@ -3283,7 +3439,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "WF": {
     "geoNameId": 4034749,
     "languageCodes": "wls,fud,fr-WF",
-    "languages": "Wallisian (indigenous Polynesian language) 58.9%, Futunian 30.1%, French (official) 10.8%, other 0.2% (2003 census)",
+    "languages":
+        "Wallisian (indigenous Polynesian language) 58.9%, Futunian 30.1%, French (official) 10.8%, other 0.2% (2003 census)",
     "areaKM2": 274,
     "internetHosts": 2760,
     "internetUsers": 1300,
@@ -3297,7 +3454,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "EH": {
     "geoNameId": 2461445,
     "languageCodes": "ar,mey",
-    "languages": "Standard Arabic (national), Hassaniya Arabic, Moroccan Arabic",
+    "languages":
+        "Standard Arabic (national), Hassaniya Arabic, Moroccan Arabic",
     "areaKM2": 266000,
     "internetHosts": "",
     "internetUsers": "",
@@ -3324,7 +3482,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "ZM": {
     "geoNameId": 895949,
     "languageCodes": "en-ZM,bem,loz,lun,lue,ny,toi",
-    "languages": "Bembe 33.4%, Nyanja 14.7%, Tonga 11.4%, Lozi 5.5%, Chewa 4.5%, Nsenga 2.9%, Tumbuka 2.5%, Lunda (North Western) 1.9%, Kaonde 1.8%, Lala 1.8%, Lamba 1.8%, English (official) 1.7%, Luvale 1.5%, Mambwe 1.3%, Namwanga 1.2%, Lenje 1.1%, Bisa 1%, other 9.2%, unspecified 0.4%",
+    "languages":
+        "Bembe 33.4%, Nyanja 14.7%, Tonga 11.4%, Lozi 5.5%, Chewa 4.5%, Nsenga 2.9%, Tumbuka 2.5%, Lunda (North Western) 1.9%, Kaonde 1.8%, Lala 1.8%, Lamba 1.8%, English (official) 1.7%, Luvale 1.5%, Mambwe 1.3%, Namwanga 1.2%, Lenje 1.1%, Bisa 1%, other 9.2%, unspecified 0.4%",
     "areaKM2": 752614,
     "internetHosts": 16571,
     "internetUsers": 816200,
@@ -3338,7 +3497,8 @@ const Map<String, Map<String, dynamic>> extraInfo = {
   "ZW": {
     "geoNameId": 878675,
     "languageCodes": "en-ZW,sn,nr,nd",
-    "languages": "English (official), Shona, Sindebele (the language of the Ndebele, sometimes called Ndebele), numerous but minor tribal dialects",
+    "languages":
+        "English (official), Shona, Sindebele (the language of the Ndebele, sometimes called Ndebele), numerous but minor tribal dialects",
     "areaKM2": 390580,
     "internetHosts": 30615,
     "internetUsers": 1423000,
@@ -3354,10 +3514,7 @@ const Map<String, Map<String, dynamic>> extraInfo = {
     "japaneseShortName": "アランド諸島",
     "emoji": "🇦🇽"
   },
-  "BV": {
-    "frenchShortName": "Bouvet (l'Île)",
-    "japaneseShortName": "ブーベ島"
-  },
+  "BV": {"frenchShortName": "Bouvet (l'Île)", "japaneseShortName": "ブーベ島"},
   "GF": {
     "frenchShortName": "Guyane française (la )",
     "japaneseShortName": "フランス領ギアナ",

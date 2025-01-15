@@ -25,7 +25,6 @@ class MyApp extends StatelessWidget {
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
-
   final String title;
 
   @override
@@ -33,19 +32,8 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  List<Country> allCountries = [];
-
-  @override
-  void initState() {
-    super.initState();
-    getCountries();
-  }
-
-  void getCountries() {
-    setState(() {
-      allCountries = WorldInfoPlus.countries;
-    });
-  }
+  List<Country> allCountries = WorldInfoPlus.countries;
+  Country? deviceCountry = WorldInfoPlus.deviceCountry;
 
   @override
   Widget build(BuildContext context) {

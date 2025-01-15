@@ -1,20 +1,52 @@
 class Country {
+  /// Official English name of the country (e.g., "United States of America").
   final String name;
+
+  /// A shorter or common English name (e.g., "USA").
   final String shortName;
+
+  /// Native name of the country in its primary local language.
   final String nativeName;
+
+  /// Name of the country’s capital city.
   final String capital;
+
+  /// Name of the continent (e.g., "North America", "Asia").
   final String continent;
+
+  /// The official currency code (e.g., "Dollar", "Euro").
   final String currency;
+
+  /// Country calling code (e.g., "1" for the USA, "82" for South Korea).
   final String callingCode;
+
+  /// The primary time zone of the capital city (e.g., "Asia/Seoul").
   final String timeZoneInCapital;
+
+  /// ISO Alpha-2 country code (e.g., "US", "KR").
   final String alpha2;
+
+  /// ISO Alpha-3 country code (e.g., "USA", "KOR").
   final String alpha3;
+
+  /// ISO numeric country code (e.g., "840" for the USA).
   final String numeric;
+
+  /// Country’s top-level domain (e.g., "us", "kr").
   final String tld;
+
+  /// Federal Information Processing Standards code.
   final String fips;
+
+  /// Future<void> initializeLocalizedName() Must be called before accessing localizedName.
+  /// It is recommended to call this function in the main function before running the app.
   final String? localizedName;
+
+  /// Additional information if available.
   final Map<String, dynamic>? extra;
 
+  /// Path to the country’s flag image,
+  /// e.g., "packages/world_info_plus/assets/flags/us.png".
   String get imagePath =>
       "packages/world_info_plus/assets/flags/${alpha2.toLowerCase()}.png";
 

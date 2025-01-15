@@ -44,6 +44,7 @@ abstract class WorldInfoPlus {
     }
   }
 
+  /// Returns a list of all available countries.
   static List<Country> get countries {
     if (_countries.isEmpty) {
       countryInfo.forEach((alpha2, infoMap) {
@@ -59,8 +60,10 @@ abstract class WorldInfoPlus {
     return _countries;
   }
 
+  /// The current device locale derived from WidgetsBinding.instance.platformDispatcher.locale.
   static Locale get deviceLocale => _deviceLocale;
 
+  /// Attempts to match the device's locale country code to a Country. Returns null if not found.
   static Country? get deviceCountry {
     final countryCode = _deviceLocale.countryCode;
     if (countryCode == null) {
@@ -69,6 +72,7 @@ abstract class WorldInfoPlus {
     return getCountryByAlpha2(countryCode);
   }
 
+  /// Fetches a Country by its ISO Alpha-2 code (e.g., "US", "FR"). Returns null if not found.
   static Country? getCountryByAlpha2(String alpha2) {
     alpha2 = alpha2.toUpperCase();
     final Map<String, dynamic>? infoMap = countryInfo[alpha2];
@@ -80,6 +84,8 @@ abstract class WorldInfoPlus {
   }
 }
 
+/// Loads localized country names based on the device’s locale. Must be called before accessing localizedName.
+/// It is recommended to call this function in the main function before running the app.
 Future<void> initializeLocalizedName() async {
   await WorldInfoPlus._initializeLocalizedName();
 }

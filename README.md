@@ -10,7 +10,7 @@
 
 `world_info_plus` is a Flutter package that provides detailed information about 250 countries across the globe. This includes **calling codes**, **time zones**, **country codes** (ISO Alpha-2/Alpha-3/numeric), and more. It also supports **localized country names** based on the device's locale or language code, if available.
 
-<img src="https://github.com/user-attachments/assets/aa064597-dffb-4a7a-acb3-88293f32b645" alt="Simulator" width="300"/>
+<img src="https://github.com/user-attachments/assets/aa064597-dffb-4a7a-acb3-88293f32b645" alt="Simulator" width="250"/>
 
 ---
 

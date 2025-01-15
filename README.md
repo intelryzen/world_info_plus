@@ -3,10 +3,10 @@
 [![pub package](https://img.shields.io/pub/v/world_info_plus.svg)](https://pub.dev/packages/world_info_plus)
 [![Score](https://img.shields.io/pub/points/world_info_plus?label=Score&logo=dart)](https://pub.dev/packages/world_info_plus/score)
 [![Platform](https://img.shields.io/badge/Platform-Android%20|%20iOS%20|%20macOS%20|%20Web%20|%20Windows%20|%20Linux%20-blue.svg?logo=flutter)](https://pub.dev/packages/world_info_plus)
-![GitHub stars](https://img.shields.io/github/stars/your-repo/world_info_plus)
-![GitHub forks](https://img.shields.io/github/forks/your-repo/world_info_plus)
-![GitHub issues](https://img.shields.io/github/issues/your-repo/world_info_plus)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-repo/world_info_plus)
+![GitHub stars](https://img.shields.io/github/stars/intelryzen/world_info_plus)
+![GitHub forks](https://img.shields.io/github/forks/intelryzen/world_info_plus)
+![GitHub issues](https://img.shields.io/github/issues/intelryzen/world_info_plus)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/intelryzen/world_info_plus)
 
 `world_info_plus` is a Flutter package that provides detailed information about 250 countries across the globe. This includes **calling codes**, **time zones**, **country codes** (ISO Alpha-2/Alpha-3/numeric), and more. It also supports **localized country names** based on the device's locale or language code, if available.
 

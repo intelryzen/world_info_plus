@@ -114,6 +114,6 @@ if (country != null) {
 
 ---
 ## Contributions
-Contributions are welcome! Please open issues and pull requests to improve this package.
+Contributions are welcome! Please open **[issues](https://github.com/intelryzen/world_info_plus/issues)** and **[pull requests](https://github.com/intelryzen/world_info_plus/pulls)** to improve this package.
 
 ---

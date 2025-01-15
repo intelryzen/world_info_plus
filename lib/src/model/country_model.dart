@@ -38,7 +38,7 @@ class Country {
   /// Federal Information Processing Standards code.
   final String fips;
 
-  /// Future<void> initializeLocalizedName() Must be called before accessing localizedName.
+  /// initializeLocalizedName() Must be called before accessing localizedName.
   /// It is recommended to call this function in the main function before running the app.
   final String? localizedName;
 

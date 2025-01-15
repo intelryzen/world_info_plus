@@ -1,6 +1,6 @@
 name: world_info_plus
 description: "Flutter package that provides detailed information about 250 countries, including dial codes, time zones, country codes, and localized country names based on the device's locale"
-version: 1.0.0+2
+version: 1.0.0+3
 repository: https://github.com/intelryzen/world_info_plus
 issue_tracker: https://github.com/intelryzen/world_info_plus/issues
 topics: [country, code, picker]

@@ -12,6 +12,8 @@ abstract class WorldInfoPlus {
   static Locale get _deviceLocale =>
       WidgetsBinding.instance.platformDispatcher.locale;
 
+  static bool get isLocalizationSupported => _localizedNames.isNotEmpty;
+
   static String _getAssetPath(String locale) {
     return 'packages/world_info_plus/assets/localized_names/$locale.json';
   }
